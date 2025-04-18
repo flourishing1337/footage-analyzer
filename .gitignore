@@ -1,0 +1,5 @@
+samples/
+*.mp4
+*.mov
+*.avi
+env/
